@@ -1,7 +1,7 @@
 # Webpack Starter
 
 Este es el proyecto inicial para crear aplicaciones utilizando webpack.
-202106051154
+202106051156
 
 ### Notas:
 
