@@ -1,0 +1,10 @@
+/* Archivo global de estilos    202106031945 */
+html,
+body {
+    margin: 0;
+    background-color: red;
+}
+
+img {
+    width: 150px;
+}
